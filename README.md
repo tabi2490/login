@@ -1,1 +1,5 @@
-# Registration and login forms including and user dashboard using html, css and php. Flask coming soon.
+# Registration and login forms. 
+A user dashboard to display user information. 
+Used html, css and php. 
+Flask coming soon.
+Django too.
